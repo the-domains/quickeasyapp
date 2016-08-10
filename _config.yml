@@ -12,5 +12,7 @@ color:
     - '#E376B7'
 layout_spectrum: 0.051315112272277474
 name: QuickEasyApp
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/960ac65b-87d9-4a73-bd13-58e3c0a4994a.jpg
 title: From Across the Platform
 description: No Tagline Needed
